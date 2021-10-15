@@ -1,1 +1,0 @@
-javascriptDesc.md
